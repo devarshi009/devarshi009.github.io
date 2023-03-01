@@ -1,16 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.929d9d8b.js",
+    "main.js": "/static/js/main.ab8cbdfc.js",
     "static/js/787.3c0925c7.chunk.js": "/static/js/787.3c0925c7.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/cultfit.png": "/static/media/cultfit.af5d1bd52b134cd377e3.png",
+    "static/media/upstyle.png": "/static/media/upstyle.be44bef6c4bc1594f868.png",
+    "static/media/pharm.png": "/static/media/pharm.d2086f9b3a70f1d98f10.png",
+    "static/media/prof2.jpg": "/static/media/prof2.c8869f468213fb0f2ba0.jpg",
+    "static/media/fw20_0618-Devarshi-Ojha-Resume.pdf": "/static/media/fw20_0618-Devarshi-Ojha-Resume.862718084e7c256920f8.pdf",
+    "static/media/portfolio.png": "/static/media/portfolio.302ca5f8d2f3ba440463.png",
+    "static/media/surveymonkey.png": "/static/media/surveymonkey.220b0ff90b923b20c959.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/D.png": "/static/media/D.4c368fc361e155b2d774.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/red.png": "/static/media/red.b3b939c66aecf7d53967.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.929d9d8b.js.map": "/static/js/main.929d9d8b.js.map",
+    "main.ab8cbdfc.js.map": "/static/js/main.ab8cbdfc.js.map",
     "787.3c0925c7.chunk.js.map": "/static/js/787.3c0925c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.929d9d8b.js"
+    "static/js/main.ab8cbdfc.js"
   ]
 }
